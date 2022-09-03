@@ -1,0 +1,10 @@
+Package: com.smartiphone7.macosiconpack
+Name: Skeuflat
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Skeuflat
+Author: Smartiphone7 
+Maintainer: Smartiphone7
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+|
